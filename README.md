@@ -1,3 +1,6 @@
 # Smart-Exam-App-using-Flutter
 
-<img width="288" height="625" alt="blob-scene-haikei" src="https://github.com/user-attachments/assets/aceaa11b-3d60-49c1-af10-6456410e7547" />
+Output of project
+
+![im10](https://github.com/user-attachments/assets/0a8ef9ad-ac8d-43b9-9fc2-16d951208341)
+
