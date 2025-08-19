@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861360503771",
+    "project_id": "hardik-project-63029",
+    "storage_bucket": "hardik-project-63029.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861360503771:android:2fe82db3b612bcdfbb85fe",
+        "android_client_info": {
+          "package_name": "com.example.mihir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKm9GEJKlcfyZATxpe9hSFJSDnBUVJkrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
